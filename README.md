@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Meryem!
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: @merycodes on Twitter or merykft@gmail.com
+Hi! I'm Meryem. A self-taught Front-End web developer. 
+HTML | CSS | JavaScript
 
 <!---
 kaftarmery/kaftarmery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
