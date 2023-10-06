@@ -4,7 +4,7 @@
   <br></br>
   I am looking for work and projects where I am able to apply my experience and knowledge and have opportunities to learn, develop and progress my career. I am naturally curious, confident, and perpetually working on improving my skills.
 
-<hr></hr>
+<br></br>
 
 <div align="center">
   <h4>Languages & frameworks:</h4>
