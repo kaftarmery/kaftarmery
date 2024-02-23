@@ -1,8 +1,9 @@
 
   <h1>Hello, I'm Meryem</h1> 
-  I'm a front-end developer. I like to code and design things from scratch and enjoy bringing ideas to life. 
+  I'm a self-taught front-end developer and UX/UI designer.
   <br></br>
-  I am looking for work and projects where I am able to apply my experience and knowledge and have opportunities to learn, develop and progress my career. I am naturally curious, confident, and perpetually working on improving my skills.
+  I enjoy bringing ideas to life with coding and design. I'm always on the lookout for new skills to pick up, especially through building projects. I have a keen interest in both the software development world and UX/UI design, constantly learning and applying new ideas in my work.
+
 
 <br></br>
 
